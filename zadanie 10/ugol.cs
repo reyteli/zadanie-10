@@ -72,9 +72,9 @@ namespace zadanie_10
 
         public ugol(float gradus, float min, float sec)
         {
-            this.gradus = gradus;
-            this.min = min;
-            this.sec = sec;
+            this.Gradus = gradus;
+            this.Min = min;
+            this.Sec = sec;
         }
        public float ToRadians()
         {
